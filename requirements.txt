@@ -1,0 +1,25 @@
+# Core LangChain packages (modern split)
+langchain==1.0.7
+langchain-core==1.0.5
+langchain-community==0.4.1
+langchain-text-splitters==1.0.0
+langchain-chroma==1.0.0
+
+# Vector store
+chromadb==0.5.0
+
+# Embeddings
+sentence-transformers==2.5.1
+transformers==4.38.2
+huggingface-hub==0.20.3
+
+# Local LLM via Ollama
+ollama
+
+# Torch (CPU version for macOS ARM)
+torch==2.1.2
+
+# Utils
+pydantic==2.6.1
+numpy==1.26.4
+tqdm

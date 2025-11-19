@@ -74,12 +74,10 @@ If the answer is not contained in the speech text, the assistant will respond wi
 
 ---
 
-## Deliverables
+## Deliverables<img width="953" height="749" alt="Screenshot 2025-11-19 at 2 05 42 PM" src="https://github.com/user-attachments/assets/fe439917-cabd-4d35-8843-ab5494e9e117" />
+
 - `main.py` — working CLI app
 - `requirements.txt` — pip dependencies
 - `README.md` — setup and run instructions
 - `speech.txt` — provided speech excerpt
 
-## Ask questions:
-Question: What does Ambedkar describe as the real enemy?
-Answer: The real enemy is the belief in the sanctity of the shastras.
